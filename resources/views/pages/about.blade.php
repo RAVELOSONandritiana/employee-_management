@@ -50,7 +50,7 @@
                 </div>
                 <div class="grid grid-cols-2 gap-4">
                     <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-                        <div class="text-4xl font-bold text-emerald-500 mb-2">Total</div>
+                        <div class="text-4xl font-bold text-emerald-500 mb-2">100%</div>
                         <div class="text-slate-600">Gratuit</div>
                     </div>
                     <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
@@ -62,7 +62,7 @@
                         <div class="text-slate-600">Illimité</div>
                     </div>
                     <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100">
-                        <div class="text-4xl font-bold text-amber-500 mb-2">Total</div>
+                        <div class="text-4xl font-bold text-amber-500 mb-2">100%</div>
                         <div class="text-slate-600">Sécurisé</div>
                     </div>
                 </div>
